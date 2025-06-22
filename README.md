@@ -12,3 +12,6 @@ An interactive dashboard built using Tableau to visualize COVID-19 data globally
 - Interactive time filters and country selection
 - Map showing deaths by country
 
+## 🔗 Dashboard Link
+👉 [Click here to view the dashboard on Tableau Public]
+https://public.tableau.com/app/profile/chetna.sikarwar/viz/Covid-19GlobalDataset_17506148788220/covid-dashboard?publish=yes
